@@ -5,7 +5,7 @@ import pywhatkit
 ruta_base = "noticias_guardadas"
 
 # Tu número de WhatsApp (con código de país, sin +)
-mi_numero = "15622693215"  # Ejemplo: 51 para Perú
+mi_numero = "(inserte numero)"  # Ejemplo: 51 para Perú
 
 # Construir un solo mensaje con todas las noticias
 mensaje_final = "📰 Noticias guardadas:\n\n"
